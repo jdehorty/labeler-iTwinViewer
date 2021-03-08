@@ -1,0 +1,44 @@
+.scroll-thing {
+    overflow: scroll;
+    height: 100%;
+    width: 100%;
+}
+
+.selhelp-criteria {
+    display: flex;
+    flex-flow: row;
+}
+
+.selhelp-criteria-checkbox-container {
+    display: inline-block;
+}
+
+.selhelp-criteria-checkbox {
+    margin: 4px;
+}
+
+.selhelp-criteria-content {
+    display: inline-block;
+    width: 100%;
+    padding-right: 24px;
+    box-sizing: border-box;
+}
+
+.selhelp-criteria-title {
+    text-decoration: underline;
+    margin: 2px;
+    padding-left: 6px;
+    padding-right: 6px;
+    display: block;
+    color: grey;
+}
+
+.selhelp-criteria-value {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    padding-left: 6px;
+    padding-right: 6px;
+    display: block;
+    box-sizing: content-box;
+}
