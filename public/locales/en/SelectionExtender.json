@@ -1,0 +1,20 @@
+{
+    "MatchingRuleType": {
+        "SameClass": "Class",
+        "SameUserLabel": "User Label",
+        "SameCategory": "Category",
+        "SameParent": "Parent",
+        "SameModel": "Model",
+        "SameCodeValue": "Code Value",
+        "SameCodeSpec": "Code Specification",
+        "SameCodeScope": "Code Scope",
+        "SameLastMod": "Last Modification",
+        "SameJsonProps": "JSON Properties",
+        "SameGeometry": "Geometry Data",
+        "SameGeometrySize": "Geometry Data Length",
+        "SameBBoxHeight": "Bounding Box Height",
+        "SameBBoxVolume": "Bounding Box Volume",
+        "SameElementAspect": "Element Aspect"
+    }
+}
+  

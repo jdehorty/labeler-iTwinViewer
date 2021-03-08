@@ -1,0 +1,558 @@
+{
+  "forceShowAll": "Force Show All",
+  "colorMode": "Color Mode",
+  "assignLabel": "Assign Label",
+  "show": "Show",
+  "hide": "Hide",
+  "makeTransparent": "Make Transparent",
+  "models": "Models",
+  "categories": "Categories",
+  "classes": "Classes",
+  "all": "All",
+  "selected": "Selected",
+  "messageCenter": {
+    "messages": "Messages",
+    "all": "All",
+    "errors": "Errors",
+    "prompt": "No messages.",
+    "export": "Export"
+  },
+  "selectionScopeField": {
+    "label": "Scope",
+    "toolTip": "Selection Scope"
+  },
+  "cycler": {
+    "totalTitle": "Total 3D Elements",
+    "selectedTitle": "Selected & Visible",
+    "startCycling": "Cycle Selection...",
+    "cyclingTitle": "Cycling"
+  },
+  "labelRemapping": {
+    "title": "Remap...",
+    "enabled": "Label Remapping Enabled",
+    "name": "Label",
+    "color": "Color",
+    "remap": "Remapped to"
+  },
+  "Header": {
+    "welcome": "Welcome to UI Sample Application"
+  },
+  "version": {
+    "notFound": "Version name not found!",
+    "baseline": "Baseline"
+  },
+  "IModelListHeader": {
+    "projects": "Projects"
+  },
+  "IModelList": {
+    "noIModels": "There are no IModels in Project {{projectName}}"
+  },
+  "ContentDef": {
+    "OneView": "Single View",
+    "TwoAlongside": "Side by Side",
+    "TwoStacked": "Stacked",
+    "ThreeRightStacked": "Three Right Stacked",
+    "FourQuadranted": "Quadranted"
+  },
+  "Test": {
+    "my-label": "My Label"
+  },
+  "errors": {
+    "noViews": "No Views found in iModel",
+    "error": "Something went wrong",
+    "gotoIModelHub": "Go to iModelHub Website",
+    "gotoConnectionCenter": "Go to Connection Center",
+    "problem": "Problem found while",
+    "couldNotOpenIModel_title": "Could not open iModel",
+    "couldNotOpenIModel": "We can't find the iModel that you are looking for or it does not exist.",
+    "couldNotAcquireProjectInfo_title": "Could not find Project",
+    "couldNotAcquireProjectInfo": "We can't find the project that you are looking for or it does not exist.",
+    "couldNotGenerateView_title": "Could not generate view",
+    "couldNotGenerateView": "We couldn't generate a default view for this iModel.",
+    "genericAdvise": "Visit the iModel Hub or contact our support team.",
+    "action_iModelManager": "iModel Manager",
+    "action_iModelHub": "iModel Hub",
+    "action_portal": "CONNECT Portal",
+    "action_contactUs": "Contact Us",
+    "invalidModel2dId_brief": "Invalid 2D Model Id",
+    "invalidModel2dId": "No 2D model was found with the model Id provided in the URL. We have opened the default 3D View."
+  },
+  "loading": {
+    "title": "Loading...",
+    "title2": "Loading",
+    "init_getProject": "Getting Project",
+    "init_imodel": "Opening iModel",
+    "init_views": "Getting default view",
+    "init_open": "Starting the viewer",
+    "properties": "Loading properties..."
+  },
+  "properties": "Properties",
+  "measurements": "Measurements",
+  "backstage": {
+    "command": "Command",
+    "3dview": "3D View",
+    "testFrontstage1": "Test 1 Frontstage",
+    "testFrontstage2": "Test 2 Frontstage",
+    "testFrontstage3": "Test 3 Frontstage",
+    "testFrontstage4": "Test 4 Frontstage",
+    "task1": "Task 1",
+    "task2": "Task 2",
+    "task3": "Task 3",
+    "exit": "Exit",
+    "wipstage": "WIP Stage",
+    "imodelindex": "IModelIndex"
+  },
+  "zone6": {
+    "month": "Month",
+    "number": "Number",
+    "password": "Password",
+    "radio": "Radio",
+    "range": "Range",
+    "reset": "Reset",
+    "resetNow": "Reset Now",
+    "search": "Search",
+    "submit": "Submit",
+    "submitNow": "Submit Now",
+    "Tel": "Telephone",
+    "Text": "Text"
+  },
+  "zone7": {
+    "button": "Button",
+    "checkbox": "Checkbox",
+    "color": "Color",
+    "date": "Date",
+    "datetimeLocal": "Datetime-Local",
+    "email": "Email",
+    "file": "File"
+  },
+  "tool1": {
+    "month": "Month",
+    "number": "Number",
+    "password": "Password",
+    "radio": "Radio",
+    "range": "Range"
+  },
+  "tool2": {
+    "month": "Month2",
+    "number": "Number2"
+  },
+  "tools": {
+    "measureTools": "Measure Tools",
+    "measureDistanceTool": "Measure Distance",
+    "measureLocationTool": "Measure Location",
+    "fit": "Fit View",
+    "rotate": "Rotate View",
+    "pan": "Pan View",
+    "windowArea": "Window Area",
+    "toggleIssues": "Show or Hide Issues Resolution",
+    "selectTool": "Select Tool",
+    "sightLineTools": "Sight Line Tools",
+    "walk": "Walk Tool",
+    "toggleCamera": "Toggle Perspective",
+    "viewUndo": "Undo View",
+    "viewRedo": "Redo View",
+    "sectionTools": "Section Tools",
+    "civilTools": "Civil Tools",
+    "sectionByPlane": "Plane",
+    "sectionByShape": "Shape",
+    "sectionByRange": "Range",
+    "sectionByElement": "Element",
+    "sectionClear": "Clear Sections",
+    "sectionShowHandles": "Section Handles:",
+    "showSectionHandles": "Show Section Handles",
+    "hideSectionHandles": "Hide Section Handles",
+    "markupTools": "Markup Tools",
+    "DesignReviewSelect": {
+      "keyin": "Selection Tool"
+    },
+    "CreateUrlMarker": {
+      "keyin": "Create Url Marker",
+      "description": "Create Url Marker",
+      "flyover": "Create Url Marker",
+      "prompts": {
+        "label": "Tooltip",
+        "url": "URL",
+        "shared": "Share",
+        "icon": "Icon",
+        "identifyMarkerLocation": "Identify Marker Location",
+        "successSavingUrlMarker": "Successful saving URL",
+        "errorSavingUrlMarker": "Error saving URL"
+      }
+    }
+  },
+  "compatibility": {
+    "warning": "Compatibility Warning",
+    "perfAndComp": "Performance & Compatibility",
+    "copyToClipboard": "Copy Details to Clipboard",
+    "basicWarning": "We have detected issues which could degrade performance.",
+    "missingOptionalFeatures": "Missing optional features. Your device and/or browser is compatible with the application but the following optional features do not work: ",
+    "majorPerformanceCaveat": "Major performance caveat found. Your device and/or browser has low compatibility with the application and may suffer from degraded performance.",
+    "missingRequiredFeatures": "Missing required features. Your device and/or browser does not support the required features for the application to run: ",
+    "cannotCreateContext": " Your device and/or browser does not support WebGL which is required for this application.",
+    "dontShowWarningAgain": "Don't show this again",
+    "moreDetails": "Show details",
+    "debugInfo": "Debug Info",
+    "webGLError": "WebGL Error: "
+  },
+  "listTools": {
+    "skybox": "Skybox",
+    "camera": "Camera",
+    "categories": "Categories",
+    "selectVersion": "Select Version",
+    "models": "Models",
+    "views": "Saved Views",
+    "viewAttributes": "View Attributes",
+    "constructions": "Constructions",
+    "acs": "ACS",
+    "grid": "Grid",
+    "solarLighting": "Solar Lighting",
+    "visEdges": "Visible Edges",
+    "hidEdges": "Hidden Edges",
+    "monochrome": "Monochrome Display",
+    "ambientOcclusion": "Ambient Occlusion",
+    "shadows": "Shadows",
+    "update": "Update",
+    "delete": "Delete",
+    "share": "Share",
+    "unshare": "Unshare",
+    "create": "Create",
+    "message_updateViewSuccess": "Updated saved view successfully",
+    "message_updateViewSuccess_brief": "Update Successfull",
+    "error_updateView_brief": "Problem updating saved view",
+    "error_updateView": "Server error occurred when posting update of the saved view",
+    "message_deleteSuccess": "Deleted saved view successfully",
+    "message_deleteSuccess_brief": "Delete Successful",
+    "error_deleteView_brief": "Problem deleting saved view",
+    "error_deleteView": "Server error occurred when trying to delete the saved view",
+    "message_shareSuccess_brief": "Share Successful",
+    "message_shareSuccess": "Saved View is now shared to other users",
+    "message_unshareSuccess_brief": "Unshare Successful",
+    "message_unshareSuccess": "Saved View is no longer shared to other users",
+    "error_shareView_brief": "Problem sharing/unsharing the saved view",
+    "error_shareView": "Server error occurred when trying to share the saved view",
+    "message_createViewSuccess_brief": "Success!",
+    "message_createViewSuccess": "Creation of saved view successful",
+    "error_createView_brief": "Problem creating saved view",
+    "error_createView": "Server error occurred when trying to create the saved view",
+    "error_namedViewAlreadyExists_brief": "Duplicate view name",
+    "error_namedViewAlreadyExists_part1": "A view with name ",
+    "error_namedViewAlreadyExists_part2": " already exists. Please use a different name.",
+    "warning_viewInvalidInChangeset_brief": "View created in different changeset",
+    "warning_viewInvalidInChangeset": "View loaded with warnings: Some categories, models or elements may not be present in this current version.",
+    "spatialViews": "Spatial Views",
+    "sheets": "Sheets",
+    "others": "Other",
+    "drawings": "Drawings",
+    "all": "All",
+    "none": "None",
+    "invert": "Invert",
+    "classifiers": "Classifiers",
+    "renderMode": "Render Mode",
+    "smoothShade": "Smooth Shade",
+    "solidFill": "Solid Fill",
+    "hiddenLine": "Hidden Line",
+    "wireframe": "Wireframe",
+    "applyCameraOnly": "Apply Camera Only",
+    "searchViews": "Search Views...",
+    "listView": "List",
+    "thumbnailView": "Thumbnails",
+    "sourceDataViews": "Show All Views",
+    "error_nosearchresults": "No views matching ",
+    "error_noviews": "No views found.",
+    "error_noviewsfound": "No views found.",
+    "error_loadView_brief": "Could not open view",
+    "error_loadViewApplyCamera": "The view could not be opened with 'Apply Camera Only'",
+    "error_loadView": "Could not load the view",
+    "clearVisibility": "Clear Hide/Isolate/Emphasize Elements",
+    "copyLink": "Copy link"
+  },
+  "viewListComponent": {
+    "createSavedView": "Create Saved View",
+    "savedView": "Saved View",
+    "error_invalidView": "View not supported",
+    "error_invalidView_detailed": "This view has been created with an older version of Navigator Desktop that is no longer supported.",
+    "nameField": "Name:",
+    "createviewprompt": "Would you like to create a view?",
+    "shared": "Shared",
+    "sourceView": "iModel View",
+    "share": "Share",
+    "shareView": "Share View",
+    "done": "Done",
+    "public_tooltip": "Public View: Everyone in the project can see this view",
+    "public": "Share with everyone in my team",
+    "link": "Link:",
+    "copyLink": "Copy",
+    "msg_copiedToClipboard": "Link copied to clipboard",
+    "msg_viewNeedsToBePublic": "View must be public to share with link"
+  },
+  "versionSelect": {
+    "viewNotFoundBrief": "Could not maintain views",
+    "viewNotFound": "The version of the iModel you are seeing doesn't have the same saved views. Viewports have been adjusted with valid views."
+  },
+  "toolAssist": {
+    "startPoint": "Start Point"
+  },
+  "snapMode": {
+    "snapMode": "Snap Mode",
+    "keypoint": "Keypoint",
+    "intersection": "Intersection",
+    "center": "Center",
+    "nearest": "Nearest"
+  },
+  "buttons": {
+    "toolGroup": "Tool Group",
+    "anotherGroup": "Another Group",
+    "tool1": "Tool 1",
+    "tool2": "Tool 2",
+    "item1": "Item 1",
+    "item2": "Item 2",
+    "item3": "Item 3",
+    "item4": "Item 4",
+    "item5": "Item 5",
+    "item6": "Item 6",
+    "item7": "Item 7",
+    "item8": "Item 8",
+    "modalFrontstage": "Modal Frontstage",
+    "successMessageBox": "Success",
+    "informationMessageBox": "Information",
+    "questionMessageBox": "Question",
+    "warningMessageBox": "Warning",
+    "errorMessageBox": "Error",
+    "alertMessageBox": "Alert",
+    "openMessageBox": "Open Message Box",
+    "viewZoomingTools": "Zooming Tools",
+    "navigationTools": "Navigation Tools"
+  },
+  "controls": {
+    "grid": "Grid Widget",
+    "properties": {
+      "widget-label": "Properties Widget",
+      "context-menu": {
+        "find-similar": {
+          "label": "Find Similar",
+          "description": "Find elements with similar properties"
+        },
+        "add-favorite": {
+          "label": "Add to Favorite",
+          "description": "Add this property to Favorite category"
+        },
+        "remove-favorite": {
+          "label": "Remove from Favorite",
+          "description": "Remove this property from Favorite category"
+        },
+        "copy-text": {
+          "label": "Copy Text",
+          "description": "Copy text of this property"
+        }
+      }
+    },
+    "tree": "Tree Widget",
+    "options": "Options",
+    "notifications": {
+      "error": "Error",
+      "nothing-selected": "Nothing selected",
+      "no-data": "No data",
+      "select-imodel": "Select an iModel",
+      "no-available-rulesets": "No available rulesets",
+      "select-ruleset": "Select a ruleset"
+    }
+  },
+  "imodelindex": {
+    "savedviews": "Saved Views",
+    "3dmodels": "3D Models",
+    "sheets": "Sheets",
+    "toastmessage": "Try ProjectWise Document Codes.",
+    "toasttitle": "Need more control?",
+    "learnmore": "Learn more",
+    "enterimodel": "Enter iModel",
+    "enterimodeling": "Entering iModel...",
+    "uptodate": "You have the latest version.",
+    "updatesavailable": "Later changes are available",
+    "nosavedview": "No saved views were found.",
+    "nexttab": "Switching you to the 3D Models tab...",
+    "doccodes": "Document Codes"
+  },
+  "findsimilar": {
+    "search": "Search",
+    "selectAll": "Select All",
+    "clearAll": "Clear All",
+    "clearSearch": "Clear Search",
+    "results": "{{results}} results",
+    "maxResults": "{{totalCount}} results found.",
+    "selectAllPrompt": "Select all elements?",
+    "search_for_similar": "Search for similar",
+    "noresults": "Sorry no results where found for {{query}}",
+    "defaultMessage": "You can search for element or code",
+    "zoomLabel": "Zoom to element",
+    "zoomTitle": "Click to zoom to element",
+    "zoomSelectedLabel": "Zoom to selected elements",
+    "zoomSelectedTitle": "Click to zoom to selected elements"
+  },
+  "visibility": {
+    "modeltree": "Model Tree",
+    "categories": "Categories",
+    "containment": "Spatial Containment",
+    "showAll": "Show All",
+    "hideAll": "Hide All",
+    "invert": "Invert",
+    "search": "Search"
+  },
+  "sections": {
+    "widgetTitle": "Sections",
+    "displayGeometry": "Display section geometry",
+    "clearAll": "Clear all sections",
+    "share": "Share",
+    "rename": "Rename",
+    "flipDirection": "Flip direction",
+    "delete": "Delete",
+    "renameSectionDialog": "Rename Section"
+  },
+  "diagnostics": {
+    "diagnostics": "Diagnostics",
+    "copy": "Copy Diagnostics",
+    "close": "Close",
+    "message": "To report a problem, copy the diagnostic data and ",
+    "serviceRequestManager": "Report a Problem",
+    "copiedToClipboard": "Copied diagnostics to clipboard",
+    "save": "Save to File"
+  },
+  "debugUtils": {
+    "prodMessage": "Dev Tools unavailable in PROD",
+    "tilesTitle": "Tile Stats",
+    "featureFlags": "Feature Flags",
+    "copyToClipboard": "Copy to Clipboard",
+    "stats": "Developer Stats",
+    "refresh": "Refresh",
+    "ping": "Ping Backend",
+    "ping_success": "Ping(s) Successful: ",
+    "ping_avg": "Avg: ",
+    "ping_max": "Max: ",
+    "ping_min": "Min: ",
+    "ping_failed": "Ping Failed",
+    "imodelInfo": "IModel Info",
+    "imodelName": "IModel Name:",
+    "imodelId": "IModel Id:",
+    "changeSetId": "ChangeSet Id:",
+    "projectId": "Project Id:",
+    "environment": "Env:",
+    "link": "Link:",
+    "gotoIModel": "Go to IModel in the Hub",
+    "namedVersion": "Named Version:"
+  },
+  "realityData": {
+    "showAll": "Show All",
+    "hideAll": "Hide All",
+    "invertDisplay": "Invert Display",
+    "hybrid": "Hybrid",
+    "aerial": "Aerial",
+    "street": "Street",
+    "settings": "Settings...",
+    "bingMapSettings": "Bing Map Settings",
+    "elevationOffset": "Elevation Offset (meters)",
+    "invalidElevationError": "Invalid Elevation",
+    "invalidElevationDetails": "Please enter a valid number for elevation.",
+    "notAvailable": "n/a",
+    "group": "Group",
+    "size": "Size",
+    "kilobytes": "KB",
+    "attached": "(attached)",
+    "useDepthBuffer": "Use Depth Buffer",
+    "modelHeight": "Model Height (meters)",
+    "terrain": "Use Terrain",
+    "transparency": "Transparency",
+    "elevationTypeGeodetic": "GPS (Geodetic/Ellipsoid)",
+    "elevationTypeGeoid": "Sea Level (Geoid)",
+    "elevationTypeGround": "Ground",
+    "create": "Create...",
+    "noclassifiers": "No classifiers"
+  },
+  "createClassifier": {
+    "off": "Off",
+    "on": "On",
+    "dimmed": "Dimmed",
+    "hilite": "Hilite",
+    "elementcolor": "Element Color",
+    "createTitle": "Create Classifier",
+    "editTitle": "Edit Classifier",
+    "name": "Name",
+    "model": "Model",
+    "insideDisplay": "Inside Display",
+    "outsideDisplay": "Outside Display",
+    "margin": "Margin",
+    "volume": "Volume",
+    "edit": "Edit",
+    "delete": "Delete",
+    "new": "New"
+  },
+  "dataViz": {
+    "collapse": "Collapse All",
+    "create": "Create",
+    "editTitle": "Edit Data Visualization",
+    "expand": "Expand All",
+    "nameAlreadyExists": "You must enter a name that does not already exist.",
+    "nameMissing": "You must enter a name for the new data visualization entry.",
+    "propertyMissing": "You must select a valid property.",
+    "widgetTitle": "Data Visualization"
+  },
+  "settingsFrontstage": {
+    "settings": "Settings",
+    "general": "General",
+    "displaySettings": {
+      "title": "Display Preferences",
+      "themeSettings": {
+        "title": "Theme",
+        "light": "Light",
+        "dark": "Dark"
+      },
+      "unitSettings": {
+        "title": "Unit System",
+        "imperial": "Imperial",
+        "metric": "Metric"
+      }
+    }
+  },
+  "dataVisualizationStage": {
+    "label": "Data Visualization",
+    "iotPlugin": "Load iot Plugin",
+    "iotServerPlugin": "Load iot Plugin from server"
+  },
+  "statusFields": {
+    "displayStyle": "Display Style",
+    "unnamedDisplayStyle": "unnamed"
+  },
+  "createSavedViewMarkersCommand": {
+    "label": "Toggle View Markers",
+    "tooltip": "Toggle Display of Saved View Markers"
+  },
+  "toggleUrlMarkerCommand": {
+    "label": "Toggle Url Markers",
+    "tooltip": "Toggle Display of Url Markers"
+  },
+  "UrlMarker": {
+    "nosavedurls": "No Saved Urls",
+    "unableToRemoveSavedUrl": "Unable to remove Saved Url",
+    "urlRemovedSuccessfully": "Saved Url Removed"
+  },
+  "geoPhoto": {
+    "btnLabel": "Load Geo-Photo Plugin",
+    "btnTooltip": "Load Geo-Photo Plugin"
+  },
+  "hyperModeling": {
+    "btnLabel": "Toggle HyperModeling Markers",
+    "btnTooltip": "Toggle HyperModeling Markers"
+  },
+  "versionCompare": {
+    "error_notEnabledForIModel": "Version Comparison is not enabled for this iModel.",
+    "clickHere": "Click Here",
+    "error_notEnabledForIModel_click": "to go to IModel Manager to enable it",
+    "debug_disable": "Disable Version Compare for iModel"
+  },
+  "viewsWidget": {
+    "title": "2D Views",
+    "sheets": "Sheets",
+    "drawings": "Drawings"
+  },
+  "tileLoading": {
+    "tileLoadingSpinner": "Rendering view"
+  }
+}
